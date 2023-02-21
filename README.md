@@ -55,11 +55,11 @@ So, this is a small effort for promoting the Nepali language and literature amon
 अनिकालमा लाईफ जोगाउनु, आन्दोलनमा बाईक जोगाउनु    |   	Anikaal maa life jogaunu, andolan maa bike jogaunu.
 अनिकाले मानू, बाँडिचूडी खानू    |   	Anikaale maanu, badi chudi khaanu.
 अनुहार न दनुवार पोइ खोज्न थाली    |   	Anuhaar na danuwaar poi khojna thaali.
-अनुहार न दनुवार, पाण्‍डव सुनुवार    |   	Anuhaar na danuhaar, pandab sunuwar. | Chyamata bina furti lagunu | Anuhar na danuwar pandav sunwar bhane ghai ram le dherai furti laucha
+अनुहार न दनुवार, पाण्‍डव सुनुवार    |   	Anuhaar na danuhaar, pandab sunuwar. | Chyamata bina furti lagunu | Anuhar na danuwar pandav sunwar bhane jhai ram le dherai furti laucha
 अन्धाको देशमा आँखा छोप्नु, लङ्‍गडाको देशमा खुट्‍टा खोच्याउनु    |   	Andhaa ko desh maa aankhaa chhopnu, langadaa ko desh maa khuttaa khochchyaunu.
 अन्धाको सहारा लङ्गडा    |   	Andhaa ko saahaaraa langadaa.
 अन्धाको हातमा टुकी    |   	Andha ko hat ma tuki.
-अन्धोलाई ऐनाको खोजि    |   	Andho lai ainaa ko khoji.       |       Na chaie kura ma chaso bhegta garnu
+अन्धोलाई ऐनाको खोजि    |   	Andho lai ainaa ko khoji.       |       Na chainey kura ma chaso bhekta garnu
 अन्नमा भन्दा सन्नमा जोड    |   	Anna ma bhanda Sanna ma jod.
 अन्यायको धन, कहिल्यै मेरो नभन    |   	Anyaaye ko dhan, kahilei mero nabhan.
 अभागी मोरो हग्न बस्यो, बाह्र हातको घोँचो पस्यो    |   	Abhaagi moro hagna basyo, bahra haat ko ghocho pasyo.
@@ -356,7 +356,7 @@ So, this is a small effort for promoting the Nepali language and literature amon
 जति भाँडो उति चुबुर्को    |   	Jati bhaado uti chuburko.
 जति भान्छे त्यति खिचडी    |   	Jati bhaanchhe tyati khichadi.
 जनतालाई गणतन्त्र, हर्ष न बिस्मात    |   	Janataa lai ganatantra, harsha na bismaat.
-जब भयो राती, तब बुढी ताती    |   	Jaba bhayo raati, taba budhi taati.
+जब भयो राती, तब बुढी ताती    |   	Jaba bhayo raati, taba budhi taati. | samay sakine belama josh dekhaunu.
 जलै बिष्णु थलै बिष्णु, फाेहर कहाँ फाल्नु    |   	Jalai bisnu thalai bishnu fohor kaha faalnu?
 जसका छोरा उसका धन, जसका भैंसी उसका बन    |   	Jaska chhora uska dhan, jaska bhansi uskaa ban.
 जसकी आमा भान्छे, उसको छोरो भोकै    |   	Jaski aama bhanchhe, usko choro bhokai 
